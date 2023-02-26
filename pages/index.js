@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Clique nos botões acima para expandir" />
         <p className="description">
-          Este site funciona na intranet <code>e fora dela</code>
+          Este site pode ser acessado <code>via intranet</code>
         </p>
       </main>
 
