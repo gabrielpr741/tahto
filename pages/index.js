@@ -7,13 +7,13 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>LINKS</title>
-        <link rel="icon" href="https://logodownload.org/wp-content/uploads/2014/02/oi-logo-b4.png" />
+        <link rel="icon" href="https://www.tahto.com.br/wp-content/uploads/2021/10/brand-1.svg" />
       </Head>
 
       <main>
         <Header title="Clique nos botões acima para expandir" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Este site funciona na intranet <code>e fora dela</code>
         </p>
       </main>
 
