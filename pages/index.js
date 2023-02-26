@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Suporte SAC-HL</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>LINKS</title>
+        <link rel="icon" href="https://logodownload.org/wp-content/uploads/2014/02/oi-logo-i3.png" />
       </Head>
 
       <main>
