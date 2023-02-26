@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>.:LINKS:.</title>
+        <title> ☎ LINKS</title>
         <link rel="icon" href="https://www.tahto.com.br/wp-content/uploads/2021/10/brand-1.svg" />
       </Head>
 
