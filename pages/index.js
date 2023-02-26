@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Suporte</title>
+        <title>Suporte SAC-HL</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
